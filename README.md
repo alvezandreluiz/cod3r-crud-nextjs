@@ -1,4 +1,4 @@
-This is a CRUD [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and with the database in the cloud.
+This is a CRUD [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and with database in the cloud.
 
 :point_right:[**Visit the project website**](https://cod3r-crud-nextjs-6y3p757yx-alvezandreluiz.vercel.app/)
 
@@ -38,3 +38,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Instructor: [Leonardo Moura Leitão]( https://www.linkedin.com/in/leonardo-leit%C3%A3o-8a5813186/)
+
+<div align="right">
+  <a href="#top">
+    <img alt="Up" height="25" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/angle-up.svg">
+  </a>
+</div>
