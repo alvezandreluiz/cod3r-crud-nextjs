@@ -1,4 +1,4 @@
-This is a CRUD [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a CRUD [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and with the database in the cloud.
 
 :point_right:[**Visit the project website**](https://cod3r-crud-nextjs-6y3p757yx-alvezandreluiz.vercel.app/)
 
