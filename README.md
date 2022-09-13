@@ -1,8 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a CRUD [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+:point_right:[**Visit the project website**](https://cod3r-crud-nextjs-6y3p757yx-alvezandreluiz.vercel.app/)
 
 ## Getting Started
 
-First, run the development server:
+First, create a ".env.local" file in the root of your project, with the content of your web app's Firebase configuration:
+
+NEXT_PUBLIC_FIREBASE_API_KEY=yourFirebaseApiKey<br />
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=yourFirebaseAuthDomain<br />
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=yourFirebaseProjectId
+
+Run the development server:
 
 ```bash
 npm run dev
@@ -11,8 +19,6 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
